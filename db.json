@@ -1,0 +1,18 @@
+{
+    "Venda": [
+        {
+            "id": "1",
+            "cliente": "Paulo",
+            "produto": "tinta preta",
+            "dataVenda": "2025-02-11",
+            "horarioVenda": "16:00"
+        },
+        {
+            "id": "2",
+            "cliente": "Maria",
+            "produto": "tinta azul",
+            "dataVenda": "2025-05-15",
+            "horarioVenda": "14:30"
+        }
+    ]
+}
