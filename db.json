@@ -5,7 +5,8 @@
             "cliente": "Paulo",
             "produto": "tinta preta",
             "dataVenda": "2025-02-11",
-            "horarioVenda": "16:00"
+            "horarioVenda": "16:00",
+            "loja": "SalãoRioBranco"
         },
         {
             "id": "2",
@@ -13,6 +14,7 @@
             "produto": "tinta azul",
             "dataVenda": "2025-05-15",
             "horarioVenda": "14:30"
+             "loja": "SalãoSP"
         }
     ]
 }
