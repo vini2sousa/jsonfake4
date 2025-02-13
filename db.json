@@ -5,6 +5,7 @@
             "loja": "SalãoRioBranco",
             "cliente": "Paulo",
             "produto": "tinta preta",
+            "quantidade":"3",
             "dataVenda": "2025-02-11",
             "horarioVenda": "16:00"
             
@@ -15,7 +16,8 @@
             "cliente": "Maria",
             "produto": "tinta azul",
             "dataVenda": "2025-05-15",
-            "horarioVenda": "14:30"
+            "horarioVenda": "14:30",
+            "idcliente":"1"
             
         }
     ]
